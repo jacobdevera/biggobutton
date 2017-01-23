@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity extends Activity {
-    private int clicks;
+    private int clicks = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
