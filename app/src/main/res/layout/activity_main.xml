@@ -11,7 +11,7 @@
     tools:context="edu.washington.gjdevera.biggobutton.MainActivity">
 
     <Button
-        android:text="Push Me!"
+        android:text="@string/str_main"
         android:textSize="40dp"
         android:textStyle="italic"
         android:textColor="#FF0000"
